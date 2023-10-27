@@ -1,16 +1,35 @@
-### Hi there 👋
+# Krishna Singh
 
-<!--
-**krishna09-dev/krishna09-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishna09-dev%2Fkrishna09-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/@kris_hna01)](https://twitter.com/@kris_hna01)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/krishnasingh09/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/_kris_hna01//)](https://www.instagram.com/https://www.instagram.com/_kris_hna01/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:officialkrishna09@gmail.com)
 
-Here are some ideas to get you started:
+[![Github](https://img.shields.io/github/followers/krishna09-dev?label=Follow&style=social)](https://github.com/krishna09-dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋I'm Krishna Singh from Nepal.
+- 🤔 I’m currently Learing JAVA.
+-🔭 I’m a Student at (Islington College, kathmandu-Nepal)
+- 📚 I'm currently a under undergraduate Computer Science Student.
+- ⚡ In my free time I try to learn new skills
+
+
+### 🖥 Skills
+
+- HTML
+- CSS
+- JAVA Basic
+- FIGMA
+- CANVA
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-JAVA-05122A?style=flat-square&logo=JAVA&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna09-dev&show_icons=true&locale=en&layout=compact" alt="krishna09-dev" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=krishna09-dev&" alt="krishna09-dev" />
+</div>
+
+
+---
