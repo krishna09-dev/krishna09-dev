@@ -1,8 +1,8 @@
 # Krishna Singh
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/@kris_hna01)](https://twitter.com/@kris_hna01)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/krishnasingh09/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/_kris_hna01//)](https://www.instagram.com/https://www.instagram.com/_kris_hna01/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white)](https://twitter.com/@kris_hna01)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krishnasingh09/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/_kris_hna01/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:officialkrishna09@gmail.com)
 
 [![Github](https://img.shields.io/github/followers/krishna09-dev?label=Follow&style=social)](https://github.com/krishna09-dev)
