@@ -8,8 +8,8 @@
 [![Github](https://img.shields.io/github/followers/krishna09-dev?label=Follow&style=social)](https://github.com/krishna09-dev)
 
 - 👋I'm Krishna Singh from Nepal.
-- 🤔 I’m currently Learing JAVA.
--🔭 I’m a Student at (Islington College, kathmandu-Nepal)
+- 🤔 I’m currently Learing JAVA.<br>
+- 🔭 I’m a Student at (Islington College, kathmandu-Nepal)
 - 📚 I'm currently a under undergraduate Computer Science Student.
 - ⚡ In my free time I try to learn new skills
 
