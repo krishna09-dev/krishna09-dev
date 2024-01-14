@@ -18,6 +18,7 @@
 
 - HTML
 - CSS
+- JAVASCRIPT Basic
 - JAVA Basic
 - FIGMA
 - CANVA
